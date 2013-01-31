@@ -19,7 +19,7 @@ module.exports = Backbone.Router.extend({
   },
 
   index: function() {
-    renderRegion('index');
+    renderRegion('battle');
   },
   docs: function() {
     renderRegion('docs');
